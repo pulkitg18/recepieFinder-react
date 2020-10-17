@@ -52,6 +52,7 @@ function App() {
             ingredients={recipe.recipe.ingredients}
           />
         ))}
+        <h1>By Pulkit Gupta</h1>
       </div>
     </div>
   );

@@ -29,3 +29,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
+.app__recepies > h1 {
+  color: white;
+}
